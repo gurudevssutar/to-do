@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "text": "Excercise",
+      "date": "2021-08-25",
+      "time": "07:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Meeting",
+      "date": "2021-08-25",
+      "time": "09:00",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
